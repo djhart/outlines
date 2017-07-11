@@ -1,0 +1,15 @@
+* TODO Shave
+  SCHEDULED: <2017-07-09 Sun .+2d/4d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Workout  
+  SCHEDULED: <2017-07-09 Sun .+1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Wake up before 7
+  SCHEDULED: <2017-07-09 Sun .+1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:

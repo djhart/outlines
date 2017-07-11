@@ -1,0 +1,116 @@
+* TODO Learn enough CSS [0%]
+** TODO Intro [50%]
+*** DONE front end dev
+    CLOSED: [2017-07-09 Sun 22:57]
+*** DONE Overview
+    CLOSED: [2017-07-09 Sun 23:15]
+*** TODO Start
+*** TODO Selectors
+** TODO Style [%]
+*** TODO Naming
+*** TODO When/why
+*** TODO priority
+*** TODO Good citizen
+** TODO Values: Color, size [0%]
+*** TODO Color
+*** TODO intro sizing
+*** TODO pixels
+*** TODO percentages
+*** TODO em
+*** TODO rem
+*** TODO vw vh
+*** TODO pleasing fonts
+** TODO Box Model [%]
+*** TODO inline vs block
+*** TODO margins padding borders
+*** TODO Floats
+*** TODO Overflow style
+*** TODO Inline Block
+*** TODO Box Margins
+*** TODO Padding - Chairs
+*** TODO Border fun
+** TODO Laying it all out [%]
+*** TODO basics
+*** TODO Jekyll
+*** TODO Layouts, includes, pages
+*** TODO layout file
+*** TODO CSS file/reset
+*** TODO includes intro
+*** TODO advanced selectors
+*** TODO positioning
+*** TODO fixed header
+*** TODO footer, includes in includes
+** TODO Specialty layout - flexbox [%]
+** TODO adding a blog [%]
+** TODO Mobile media queries [%]
+** TODO more little touches [%]
+
+* TODO Learn Enough Ruby [%]
+  - Do before catching up on ODIN?
+
+* TODO Rails Tutorial [%]
+  -use this but make your own site
+  -Hart.io? 
+  -Make logo and all of that
+  -styling with css
+  -put everything together and make this a serious things
+  -plan for it to be your portfolio/business site
+  
+* TODO Viking [%] 
+** TODO Front End
+*** TODO HTML/CSS
+**** TODO Resume Finish HTML
+**** TODO CSS Garden
+**** TODO Lorem Ipsum Blog
+**** TODO Facebook CSS projects
+*** TODO SASS
+*** TODO Bootstrap
+** TODO Javascript
+** TODO Ruby
+** TODO Getting hired phase 1
+
+* TODO ODIN [0%] 
+** Clean up odds n ends 
+** TODO Rails
+*** TODO Forms project
+*** TODO Members only
+*** TODO Associations
+*** TODO Advanced Associations
+*** TODO Advanced Forms
+*** TODO APIs
+*** TODO Confirmation Email
+*** TODO Final Project
+** TODO HTML/CSS
+*** TODO Embedding img/vid
+*** TODO HTML Forms
+*** TODO Position/Float elements
+*** TODO Backgrounds/gradients
+*** TODO Design teardown
+*** TODO Responsive design
+*** TODO Bootstrap
+*** TODO Grid Framework
+** TODO Javascript/JQUERY
+*** TODO Calculator
+*** TODO Manipulating DOM
+*** TODO Jquery and DOM
+*** TODO Image Carousel
+*** TODO Tic Tac Toe
+*** TODO Minesweeper
+*** TODO Callbacks
+*** TODO Games with canvas
+*** TODO Validating with Jquery
+*** TODO Infinite scroll/submitting form with AJAX
+*** TODO Google maps
+*** TODO Wheres waldo
+*** TODO Single Page websites angular/backbone
+*** TODO Node.js
+*** TODO Final
+** TODO Getting Hired
+*** TODO Website
+*** TODO Resume
+
+* TODO FreeCodeCamp [%] 
+** TODO Check it out - good resume builder
+
+* TODO Codewars
+** TODO Try making a habit of one or two each day in the morning
