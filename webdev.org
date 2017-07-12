@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [11%]
+* TODO Learn enough CSS [22%]
 ** DONE Intro [100%]
    CLOSED: [2017-07-11 Tue 01:13]
 *** DONE front end dev
@@ -11,11 +11,22 @@
     CLOSED: [2017-07-10 Mon 23:33]
 *** DONE Selectors
     CLOSED: [2017-07-11 Tue 01:12]
-** TODO Style [%]
-*** TODO Naming
-*** TODO When/why
-*** TODO priority
-*** TODO Good citizen
+** DONE Style [100%]
+   CLOSED: [2017-07-11 Tue 23:25]
+*** DONE Naming
+    CLOSED: [2017-07-11 Tue 21:54]
+*** DONE When/why
+    CLOSED: [2017-07-11 Tue 22:05]
+*** DONE priority
+    CLOSED: [2017-07-11 Tue 22:32]
+*** DONE Good citizen
+    CLOSED: [2017-07-11 Tue 23:05]
+    - modular - styles should only affect things inside of modules rather than site-wide.
+    - aim to keep it simple
+    - multiple classes when things need to be slightly different bc context
+    - use id only if absolutely necessary - default to classes
+    - rule of thumb: three selectors maximum
+    - make good decisions early to avoid work later
 ** TODO Values: Color, size [0%]
 *** TODO Color
 *** TODO intro sizing
