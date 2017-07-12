@@ -4,12 +4,24 @@
   :STYLE: habit
   :END:
 * TODO Workout  
+  SCHEDULED: <2017-07-12 Wed .+1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :LAST_REPEAT: [2017-07-11 Tue 01:13]
+  :END:
+  - State "DONE"       from "TODO"       [2017-07-10 Mon 23:13]
+* TODO Wake up before 7
   SCHEDULED: <2017-07-09 Sun .+1d>
   :PROPERTIES:
   :STYLE: habit
   :END:
-* TODO Wake up before 7
-  SCHEDULED: <2017-07-09 Sun .+1d>
+* TODO Work on Dev
+  SCHEDULED: <2017-07-11 Sun .+1d>
+  :PROPERTIES:
+  :STYLE: habit
+  :END:
+* TODO Work on Math
+  SCHEDULED: <2017-07-11 Sun .+1d>
   :PROPERTIES:
   :STYLE: habit
   :END:

@@ -1,11 +1,16 @@
-* TODO Learn enough CSS [0%]
-** TODO Intro [50%]
+* TODO Learn enough CSS [11%]
+** DONE Intro [100%]
+   CLOSED: [2017-07-11 Tue 01:13]
 *** DONE front end dev
     CLOSED: [2017-07-09 Sun 22:57]
 *** DONE Overview
     CLOSED: [2017-07-09 Sun 23:15]
-*** TODO Start
-*** TODO Selectors
+*** DONE Sample site setup
+    CLOSED: [2017-07-10 Mon 22:28]
+*** DONE Start
+    CLOSED: [2017-07-10 Mon 23:33]
+*** DONE Selectors
+    CLOSED: [2017-07-11 Tue 01:12]
 ** TODO Style [%]
 *** TODO Naming
 *** TODO When/why
