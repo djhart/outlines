@@ -18,6 +18,9 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
   
 * Physics - Undergrad
   + check out phys forum link if any of these are too pricey
+  + take notes with latex - or even just copying examples
+    + link them to this file but only after getting latex preview to work in org - not as a copout
+    + http://orgmode.org/manual/External-links.html
 ** Calc
    :LOGBOOK:
    CLOCK: [2017-07-18 Tue 22:18]--[2017-07-18 Tue 22:43] =>  0:25
