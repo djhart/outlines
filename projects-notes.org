@@ -20,3 +20,8 @@
 + browser based? easier more relevant
   + also look into unity if thats easier
   + ai? interesting idea there - colud be a lot of fun / good portfolio project
+  + stream coding?
+    + good for networking
+    + maybe learn faster
+    + community involvement?
+    + fun, maybe revisit gamestreaming too
