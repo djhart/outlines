@@ -1,5 +1,6 @@
 * Projects
 ** Guitar practice web app
++ see guitar.rb - not sure if made much progress but i think notes are somewhere
 ** Personal site
 + focus this on learning and sharing experience of such
 + maybe make a second site on media consumption / inspiration (eg abduzeedo) / creation
