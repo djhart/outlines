@@ -1,0 +1,8 @@
+* Projects
+** Guitar practice web app
+** Personal site
+** Bry site
+** geometry rts game?
++ think geometry wars + starcraft
++ start simple rps style and build from there
++ browser based? easier more relevant
