@@ -3,11 +3,11 @@
 ** Personal site
 + focus this on learning and sharing experience of such
 + maybe make a second site on media consumption / inspiration (eg abduzeedo) / creation
-++ music, lit, art especially music
-++ prob not games or movie/tv
-++ how to on various elements of this and main while main focuses on how i actually learned and what it was like / more bloggy i guess
-++ consider third site thats strictly portfolio/ self promo
-++ look at branding - seo marketty kindo of things
+  + music, lit, art especially music
+  + prob not games or movie/tv
+  + how to on various elements of this and main while main focuses on how i actually learned and what it was like / more bloggy i guess
+  + consider third site thats strictly portfolio/ self promo
+  + look at branding - seo marketty kindo of things
 ** Bry site
 ** Brandon site
 ** geometry rts game?
