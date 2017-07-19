@@ -1,0 +1,111 @@
+https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
+https://www.physicsforums.com/forums/science-and-math-textbooks.21/
+
+
+* Language
+** Spanish
+  + aim for 2 exercises/day
+  + pomo with harry potter too, really understand though dont just skim
+  + duolingo
+  + write
+  
+** French
+  + aim for 2 exercises/day
+  + find some french news to watch
+  + look for french podcast
+  + read sartre/ others
+  + translate/write
+  
+* Physics - Undergrad
+  + check out phys forum link if any of these are too pricey
+** Calc
+   :LOGBOOK:
+   CLOCK: [2017-07-18 Tue 22:18]--[2017-07-18 Tue 22:43] =>  0:25
+   CLOCK: [2017-07-17 Mon 23:16]--[2017-07-17 Mon 23:41] =>  0:25
+   :END:
+*** do at least all the reds
+*** Chapter 2 :: Differentiation
+**** do some notes here - use latex
+*** 3-9
+  
+** Intro Phys - see amazon cart - freeman - or link 2 
+  + this should be quick but do not rush
+  
+** Intro 2
+  + have this one, same as above dont rush, foundational
+  + also that other book might have this info
+  
+** Engineering math - see amazon
+
+** Vibrations/waves - see amazon
+
+** Phys IV book
+  + slow, really understand
+  + did not do well here before 
+  
+** Taylor Mechanics
+  + expensive, use pdf
+  + do alongside Phys IV
+  + see amazon/top links for supplements/ prob sets
+  + do a lot of problems - maybe all
+  + this is bread and butter - prob most core
+  
+** vector calc
+  + do with above, if not sooner
+  + very important
+
+** Griffiths e&m
+  + do all probs
+
+** Griffiths Quantum
+  + do all probs
+  
+** Thermodynamics
+  + you have a book at home to do - not sure on quality
+  + amazon cart has a thermo book too - pretty cheap
+  
+** Extra bits
+  + Astronomy - amazon cart
+  + Astrophys - amazon cart - pricey
+  + cosmo - amazon cart - get early for bry
+  + electronics - amazon cart, check out the pedal thing brandon was doing, sautering iron needed
+  + particle phys - amazon cart, expensive - check out the link first
+  
+* Physics - Grad
+
+** Math methods
+  + Arfken - welcome to hell
+    + do it this time
+    + really understand
+  + complex analysis, group theory, fourier series - see amazon for all, some pricey but this is way down the road
+  
+** Electrodynamics
+  + Jackson of course
+  
+** Quantum mechanics
+  + Sakurai - amzon cart - very expensive
+  + Quantum Mechanics and Path Integrals by Feynman - cheap on amazon
+  + Shankar - amazon - pricey
+  + Decoherence and the Appearance of a Classical World in Quantum Theory - amazon - pricey
+  + Dirac Principles of QM - relatively cheap - written by Dirac so get
+  + The Everett Interpretation of Quantum Mechanics: Collected Works 1955-1980 - amazon - somewhat expensive but looks good
+  
+** Statistical Mechanics 
+  + Statistical Mechanics by Pathria and Beale - amazon - pricey
+  + Huang - amazon - pricey
+ 
+** General Relativity
+  + Carroll - essential - amazon - not bad
+  + there is one on shelf not sure author but check it out
+  + Wald's General Relativity - cheap
+  + Gravitation by Misner, Thorne, and Wheeler - waaaay expensive
+  + Weinberg's Gravitation and Cosmology - WAAAAAAAAAYYYY expensive
+  + A Comprehensive Introduction to Differential Geometry by Spivak - pretty cheap - cartoon pirates cover?
+   
+** Quantum Field Theory
+   + Zee's Quantum Field Theory in a Nutshell - not bad price amazon
+   + An Introduction to Quantum Field Theory by Peskin and Schroeder - not bad price amazon
+   + Weinberg's The Quantum Theory of Fields, Volume 1 - not bad price amazon 
+   + Lie Algebras in Particle Physics by Georgi - not bad price amazon
+   
+     
