@@ -30,6 +30,7 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
    :END:
 *** do at least all the reds
 *** Chapter 2 :: Differentiation
+    + C-c C-x C-l :: Latex preview of section
     \[
     x=\sqrt{b}
     \]

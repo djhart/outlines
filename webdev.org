@@ -1,4 +1,8 @@
 * TODO Learn enough CSS [22%]
+  :LOGBOOK:
+  CLOCK: [2017-07-19 Wed 22:37]--[2017-07-19 Wed 23:02] =>  0:25
+  :END:
+  - xdg-open <filename>
 ** DONE Intro [100%]
    CLOSED: [2017-07-11 Tue 01:13]
 *** DONE front end dev
@@ -27,11 +31,17 @@
     - use id only if absolutely necessary - default to classes
     - rule of thumb: three selectors maximum
     - make good decisions early to avoid work later
-** TODO Values: Color, size [0%]
-*** TODO Color
-*** TODO intro sizing
-*** TODO pixels
-*** TODO percentages
+** TODO Values: Color, size [50%]
+*** DONE Color
+    CLOSED: [2017-07-19 Wed 22:36]
+   - rgba transparency needs leading zero eg 0.5
+*** DONE intro sizing
+    CLOSED: [2017-07-19 Wed 22:45]
+*** DONE pixels
+    CLOSED: [2017-07-19 Wed 22:53]
+    - some places work better with absolute sizing eg. margins and padding
+*** DONE percentages
+    CLOSED: [2017-07-19 Wed 23:04]
 *** TODO em
 *** TODO rem
 *** TODO vw vh
