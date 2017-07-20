@@ -25,6 +25,9 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
    :END:
 *** do at least all the reds
 *** Chapter 2 :: Differentiation
+    \[
+    x=\sqrt{b}
+    \]
 **** do some notes here - use latex
 *** 3-9
   
