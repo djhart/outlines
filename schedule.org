@@ -1,0 +1,28 @@
+* Bills
+** TODO Water
+   DEADLINE: <2017-08-15 +1m>
+** TODO Power
+   DEADLINE: <2017-08-15 +1m>
+** TODO Rent
+   DEADLINE: <2017-07-25 +1m>
+** TODO Paypal 
+   DEADLINE: <2017-08-01 +1m>
+** TODO Younkers Card
+   DEADLINE: <2017-08-01>
+** TODO Credit Card
+   DEADLINE: <2017-08-01 +1m>
+* TODO Burlesque :: Paramount Theatre CR
+  SCHEDULED: <2017-09-16 -5d>
+* TODO Tune/Clean Bikes
+  SCHEDULED: <2017-07-23 Sun ++2w>
+* TODO Replace Credit Card
+  SCHEDULED: <2017-07-24 Mon>
+* TODO Clean Office
+  SCHEDULED: <2017-07-30 Sun ++1w>
+  :PROPERTIES:
+  :LAST_REPEAT: [2017-07-23 Sun 11:51]
+  :END:
+  - State "DONE"       from "TODO"       [2017-07-23 Sun 11:51]
+* TODO Mow lawn
+  SCHEDULED: <2017-07-23 Sun>
+

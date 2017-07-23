@@ -1,6 +1,7 @@
 https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics
 https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 
+# C-c C-x C-l :: Latex preview of section
 
 * Language
 ** Spanish
@@ -25,27 +26,54 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
     + https://www.howtogeek.com/112674/how-to-find-files-and-folders-in-linux-using-the-command-line/
 ** Calc
    :LOGBOOK:
+   CLOCK: [2017-07-20 Thu 20:47]--[2017-07-20 Thu 21:12] =>  0:25
    CLOCK: [2017-07-18 Tue 22:18]--[2017-07-18 Tue 22:43] =>  0:25
    CLOCK: [2017-07-17 Mon 23:16]--[2017-07-17 Mon 23:41] =>  0:25
    :END:
 *** do at least all the reds
 *** Chapter 2 :: Differentiation
-    + C-c C-x C-l :: Latex preview of section
-    \[
-    x=\sqrt{b}
-    \]
-**** do some notes here - use latex
-*** 3-9
+**** 2.1 Derivative, tangent line
+***** Definition of derivative  
+      \[
+      f'(x) = \lim_{\Delta\to 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}
+      \]
+**** 2.2 Basic Derivative Rules
+      \[
+      \frac{d}{dx}[sin x] = cos x
+      \]
+      \[
+      \frac{d}{dx}[cos x] = sin x
+      \]
+**** 2.3 Product and Quotient
+     \[
+     \frac{d}{dx} vu = u'v + v'u
+     \]
+     \[
+     \frac{d}{dx} \left[\frac{u}{v}\right] = \frac{u'v - v'u}{v^2}
+     \]
+**** 2.4 Chain Rule 
+     \[
+     \frac{d}{dx}[f(u)] = f'(u)u'
+     \]
+**** 2.5 Implicit Differentiation
+***** Chain rule with d/dx as placeholder for actual derivative
+**** 2.6 Related Rates
+***** Differentiation with respect to time 
+**** TODO Problem set ch 2 (maybe use that ruby problem set generator? - there are a lot here)
+*** Chapter 3 :: Applications of Differentiation
+*** 4-9
   
-** Intro Phys - see amazon cart - freeman - or link 2 
+** University Physics - Mechanics (Physics I)
   + this should be quick but do not rush
-  
-** Intro 2
-  + have this one, same as above dont rush, foundational
-  + also that other book might have this info
-  
-** Engineering math - see amazon
+*** TODO Chapter 1 :: Units, Vector
+**** Start when notebook arrives
+*** Chapter 2-20
 
+** University Physics - Electrodynamics (Physics II)
+*** Chapter 21-44 
+  + same as above dont rush, foundational
+  + also have text from physics II but this book looks good 
+** Advanced Engineering Mathematics
 ** Vibrations/waves - see amazon
 
 ** Phys IV book
@@ -118,3 +146,4 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
    + Lie Algebras in Particle Physics by Georgi - not bad price amazon
    
      
+   

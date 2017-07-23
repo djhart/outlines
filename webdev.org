@@ -1,5 +1,7 @@
-* TODO Learn enough CSS [22%]
+* TODO Learn enough CSS [33%]
   :LOGBOOK:
+  CLOCK: [2017-07-23 Sun 12:14]--[2017-07-23 Sun 12:39] =>  0:25
+  CLOCK: [2017-07-22 Sat 22:38]--[2017-07-22 Sat 23:03] =>  0:25
   CLOCK: [2017-07-19 Wed 22:37]--[2017-07-19 Wed 23:02] =>  0:25
   :END:
   - xdg-open <filename>
@@ -31,7 +33,8 @@
     - use id only if absolutely necessary - default to classes
     - rule of thumb: three selectors maximum
     - make good decisions early to avoid work later
-** TODO Values: Color, size [50%]
+** DONE Values: Color, size [100%]
+   CLOSED: [2017-07-23 Sun 13:11]
 *** DONE Color
     CLOSED: [2017-07-19 Wed 22:36]
    - rgba transparency needs leading zero eg 0.5
@@ -42,10 +45,19 @@
     - some places work better with absolute sizing eg. margins and padding
 *** DONE percentages
     CLOSED: [2017-07-19 Wed 23:04]
-*** TODO em
-*** TODO rem
-*** TODO vw vh
-*** TODO pleasing fonts
+*** DONE em
+    - em mainly for font 
+    CLOSED: [2017-07-22 Sat 22:53]
+*** DONE rem
+    CLOSED: [2017-07-23 Sun 12:25]
+    - make modular code by setting top level of chunk at rem  unit and using em for children
+*** DONE vw vh
+    CLOSED: [2017-07-23 Sun 13:00]
+    - viewport height, viewport width
+    - each is 1% :: 100vw equals full width
+    - should use different setups for desktop, mobile, etc. 
+*** DONE pleasing fonts
+    CLOSED: [2017-07-23 Sun 13:11]
 ** TODO Box Model [%]
 *** TODO inline vs block
 *** TODO margins padding borders
