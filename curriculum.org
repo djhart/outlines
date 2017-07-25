@@ -5,11 +5,46 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 
 * Language
 ** Spanish
-  + aim for 2 exercises/day
-  + pomo with harry potter too, really understand though dont just skim
-  + duolingo
-  + write
-  
+*** TODO Workbook in Spanish: Three Years [0%]
+**** TODO Part I :: Verbs[0%]
+***** TODO Lesson 1 :: Present Tense
+***** TODO Lesson 2 :: Present Tense of Stem Changing Verbs 
+***** TODO Lesson 3 :: Spelling Changes in the Present Tense
+***** TODO Lesson 4 :: Preterite Tense
+***** TODO Lesson 5
+***** TODO Lesson 6
+***** TODO Lesson 7
+***** TODO Lesson 8 
+***** TODO Lesson 9
+***** TODO Lesson 10 
+***** TODO Lesson 11
+***** TODO Lesson 12
+***** TODO Lesson 13
+***** TODO Lesson 14
+***** TODO Lesson 15
+***** TODO Lesson 16
+***** TODO Lesson 17
+***** TODO Lesson 18
+**** TODO Part II :: Grammatical Structures [%]
+**** TODO Part III :: Idioms [%]
+**** TODO Part IV :: Civilization [%]
+**** TODO Part V :: Composition 
+**** TODO Part VI :: Comprehension
+**** TODO Part VII :: Auditory Comprehension 
+*** TODO pomo with harry potter too, really understand though dont just skim
+    SCHEDULED: <2017-07-25 Tue ++1w>
+    
+*** TODO Duolingo
+    SCHEDULED: <2017-07-25 Tue +1d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2017-07-24 Mon 20:25]
+    :END:
+    - State "DONE"       from "TODO"       [2017-07-24 Mon 20:25]
+    - State "DONE"       from "TODO"       [2017-07-24 Mon 19:53]
+**** Do a section each day - set up microphone too
+*** TODO Write en Español 
+    SCHEDULED: <2017-07-27 Thu ++1w>
+
 ** French
   + aim for 2 exercises/day
   + find some french news to watch
@@ -24,14 +59,13 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
     + http://orgmode.org/manual/External-links.html
   + use locate to find org.el if needed 
     + https://www.howtogeek.com/112674/how-to-find-files-and-folders-in-linux-using-the-command-line/
-** Calc
+** TODO Calculus [%]
    :LOGBOOK:
    CLOCK: [2017-07-20 Thu 20:47]--[2017-07-20 Thu 21:12] =>  0:25
    CLOCK: [2017-07-18 Tue 22:18]--[2017-07-18 Tue 22:43] =>  0:25
    CLOCK: [2017-07-17 Mon 23:16]--[2017-07-17 Mon 23:41] =>  0:25
    :END:
-*** do at least all the reds
-*** Chapter 2 :: Differentiation
+*** TODO Chapter 2 :: Differentiation
 **** 2.1 Derivative, tangent line
 ***** Definition of derivative  
       \[
@@ -59,23 +93,61 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 ***** Chain rule with d/dx as placeholder for actual derivative
 **** 2.6 Related Rates
 ***** Differentiation with respect to time 
-**** TODO Problem set ch 2 (maybe use that ruby problem set generator? - there are a lot here)
-*** Chapter 3 :: Applications of Differentiation
+**** DONE Problem set ch 2 (maybe use that ruby problem set generator? - there are a lot here)
+     CLOSED: [2017-07-23 Sun 15:42]
+*** TODO Chapter 3 :: Applications of Differentiation
 *** 4-9
   
-** University Physics - Mechanics (Physics I)
+** TODO University Physics - Mechanics (Physics I)[0%]
   + this should be quick but do not rush
 *** TODO Chapter 1 :: Units, Vector
-**** Start when notebook arrives
-*** Chapter 2-20
+*** TODO 
+**** 1.10 Products of Vectors 
+***** Dot Product (Scalar Product) 
+     \[
+     \overrightarrow{\textit{\textbf{A}}}\cdot\overrightarrow{\textit{\textbf{B}}} = \textit{AB}\cos\phi = |\overrightarrow{\textit{\textbf{A}}}||\overrightarrow{\textit{\textbf{B}}}|\cos\phi
+     \]
+     \[
+     \overrightarrow{\textit{\textbf{A}}}\cdot\overrightarrow{\textit{\textbf{B}}} =A_{x}B_{x} + A_{y}B_{y} +A_{z}B_{z}
+     \]
+***** Cross Product ( Vector Product)
+     - Perpendicular to plane of components (right hand rule)
+     - C = 0 when A and B are parallel or antiparallel
+       
+      \[
+      C = AB\sin\phi
+      \] (Magnitude of cross product of \[ \overrightarrow{\textit{\textbf{A}}} \] and \[ \overrightarrow{\textit{\textbf{B}}} \] )  
 
+      \[
+      \overrightarrow{\textit{\textbf{A}}} \times \overrightarrow{\textit{\textbf{B}}} = \left| \begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ A_{x} & A_{y} & A_{z} \\ B_{x} & B_{y} & B_{z} \end{array} \right|
+      \]
+***** TODO Exercises pg. 29 (easy or medium in probset.rb)
+*** TODO Chapter 2
+*** TODO Chapter 3
+*** TODO Chapter 4
+*** TODO Chapter 5
+*** TODO Chapter 6
+*** TODO Chapter 7
+*** TODO Chapter 8
+*** TODO Chapter 9
+*** TODO Chapter 10
+*** TODO Chapter 11
+*** TODO Chapter 12
+*** TODO Chapter 13
+*** TODO Chapter 14
+*** TODO Chapter 15
+*** TODO Chapter 16
+*** TODO Chapter 17
+*** TODO Chapter 18
+*** TODO Chapter 19
+*** TODO Chapter 20
 ** University Physics - Electrodynamics (Physics II)
 *** Chapter 21-44 
   + same as above dont rush, foundational
   + also have text from physics II but this book looks good 
 ** Advanced Engineering Mathematics
+   - consider doing vector calc and linear algebra concurrent with ODEs 
 ** Vibrations/waves - see amazon
-
 ** Phys IV book
   + slow, really understand
   + did not do well here before 
@@ -90,7 +162,7 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 ** vector calc
   + do with above, if not sooner
   + very important
-
+  + May not be necessary, compare to vector section in Engineering Math.
 ** Griffiths e&m
   + do all probs
 
@@ -100,11 +172,13 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 ** Thermodynamics
   + you have a book at home to do - not sure on quality
   + amazon cart has a thermo book too - pretty cheap
-  
+** The Cosmic Perspective
+  + Do at any time probably around phys IV
+** Introduction to Cosmology
+  + Do after the Cosmic Perspective
+
 ** Extra bits
-  + Astronomy - amazon cart
   + Astrophys - amazon cart - pricey
-  + cosmo - amazon cart - get early for bry
   + electronics - amazon cart, check out the pedal thing brandon was doing, sautering iron needed
   + particle phys - amazon cart, expensive - check out the link first
   

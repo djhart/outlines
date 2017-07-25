@@ -23,6 +23,28 @@
   :LAST_REPEAT: [2017-07-23 Sun 11:51]
   :END:
   - State "DONE"       from "TODO"       [2017-07-23 Sun 11:51]
-* TODO Mow lawn
-  SCHEDULED: <2017-07-23 Sun>
-
+* DONE Mow lawn
+  CLOSED: [2017-07-23 Sun 16:08] SCHEDULED: <2017-07-23 Sun>
+* TODO Get Insecticide
+  SCHEDULED: <2017-07-24>
+* DONE Dishes
+  CLOSED: [2017-07-24 Mon 20:28] SCHEDULED: <2017-07-23>
+* TODO Look into new acoustic
+  SCHEDULED: <2017-07-25>
+  - Classical or flamenco
+    - Probably classical
+    - Nylon string
+* TODO Concert at Hancher
+  SCHEDULED: <2017-07-26 Wed>
+* TODO Build Desk
+  SCHEDULED: <2017-07-29 Sat>
+** TODO Measurements
+** TODO Sketch
+** TODO Materials
+** TODO Build
+* TODO Build Workbench
+  SCHEDULED: <2017-07-25 Tue>
+** TODO Measurements
+** TODO Sketch
+** TODO Materials
+** TODO Build

@@ -1,5 +1,6 @@
 * TODO Learn enough CSS [33%]
   :LOGBOOK:
+  CLOCK: [2017-07-24 Mon 20:37]--[2017-07-24 Mon 21:02] =>  0:25
   CLOCK: [2017-07-23 Sun 12:14]--[2017-07-23 Sun 12:39] =>  0:25
   CLOCK: [2017-07-22 Sat 22:38]--[2017-07-22 Sat 23:03] =>  0:25
   CLOCK: [2017-07-19 Wed 22:37]--[2017-07-19 Wed 23:02] =>  0:25
@@ -58,9 +59,11 @@
     - should use different setups for desktop, mobile, etc. 
 *** DONE pleasing fonts
     CLOSED: [2017-07-23 Sun 13:11]
-** TODO Box Model [%]
-*** TODO inline vs block
-*** TODO margins padding borders
+** TODO Box Model [25%]
+*** DONE inline vs block
+    CLOSED: [2017-07-24 Mon 20:49]
+*** DONE margins padding borders
+    CLOSED: [2017-07-24 Mon 21:02]
 *** TODO Floats
 *** TODO Overflow style
 *** TODO Inline Block
