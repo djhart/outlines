@@ -4,7 +4,11 @@
 ** TODO Power
    DEADLINE: <2017-08-15 +1m>
 ** TODO Rent
-   DEADLINE: <2017-07-25 +1m>
+   DEADLINE: <2017-08-25 Fri +1m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-07-25 Tue 20:28]
+   :END:
+   - State "DONE"       from "TODO"       [2017-07-25 Tue 20:28]
 ** TODO Paypal 
    DEADLINE: <2017-08-01 +1m>
 ** TODO Younkers Card
@@ -43,8 +47,11 @@
 ** TODO Materials
 ** TODO Build
 * TODO Build Workbench
-  SCHEDULED: <2017-07-25 Tue>
+  SCHEDULED: <2017-07-29 Sat>
 ** TODO Measurements
 ** TODO Sketch
 ** TODO Materials
 ** TODO Build
+* TODO Fix Bella Bed
+  SCHEDULED: <2017-07-26 Wed>
+  

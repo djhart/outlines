@@ -1,5 +1,7 @@
 * TODO Learn enough CSS [33%]
   :LOGBOOK:
+  CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
+  CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
   CLOCK: [2017-07-24 Mon 20:37]--[2017-07-24 Mon 21:02] =>  0:25
   CLOCK: [2017-07-23 Sun 12:14]--[2017-07-23 Sun 12:39] =>  0:25
   CLOCK: [2017-07-22 Sat 22:38]--[2017-07-22 Sat 23:03] =>  0:25
@@ -59,15 +61,23 @@
     - should use different setups for desktop, mobile, etc. 
 *** DONE pleasing fonts
     CLOSED: [2017-07-23 Sun 13:11]
-** TODO Box Model [25%]
+** TODO Box Model [62%]
 *** DONE inline vs block
     CLOSED: [2017-07-24 Mon 20:49]
 *** DONE margins padding borders
     CLOSED: [2017-07-24 Mon 21:02]
-*** TODO Floats
-*** TODO Overflow style
-*** TODO Inline Block
+*** DONE Floats
+    CLOSED: [2017-07-25 Tue 20:56]
+*** DONE Overflow style
+    CLOSED: [2017-07-25 Tue 21:16]
+    - Hidden :: if wrapper has defined height cuts off everything past, otherwise extends wrapper to hold content
+    - Visible :: allows content to spill past wrapper, with no defined size will extend as above
+    - Scroll :: Sets up a scroll bar inside wrapper
+*** DONE Inline Block
+    CLOSED: [2017-07-25 Tue 21:24]
+    - can make inline lists eg navbar
 *** TODO Box Margins
+    - you are at listing 84 :: figure out why the .bio-box h3 is only applied to one h3
 *** TODO Padding - Chairs
 *** TODO Border fun
 ** TODO Laying it all out [%]
