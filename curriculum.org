@@ -35,10 +35,11 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
     SCHEDULED: <2017-07-25 Tue ++1w>
     
 *** TODO Duolingo
-    SCHEDULED: <2017-07-26 Wed +1d>
+    SCHEDULED: <2017-07-27 Thu +1d>
     :PROPERTIES:
-    :LAST_REPEAT: [2017-07-25 Tue 20:28]
+    :LAST_REPEAT: [2017-07-26 Wed 21:54]
     :END:
+    - State "DONE"       from "TODO"       [2017-07-26 Wed 21:54]
     - State "DONE"       from "TODO"       [2017-07-25 Tue 20:28]
     - State "DONE"       from "TODO"       [2017-07-24 Mon 20:25]
     - State "DONE"       from "TODO"       [2017-07-24 Mon 19:53]

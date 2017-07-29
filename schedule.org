@@ -10,7 +10,11 @@
    :END:
    - State "DONE"       from "TODO"       [2017-07-25 Tue 20:28]
 ** TODO Paypal 
-   DEADLINE: <2017-08-01 +1m>
+   DEADLINE: <2017-09-01 Fri +1m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-07-26 Wed 22:11]
+   :END:
+   - State "DONE"       from "TODO"       [2017-07-26 Wed 22:11]
 ** TODO Younkers Card
    DEADLINE: <2017-08-01>
 ** TODO Credit Card
@@ -33,8 +37,8 @@
   SCHEDULED: <2017-07-24>
 * DONE Dishes
   CLOSED: [2017-07-24 Mon 20:28] SCHEDULED: <2017-07-23>
-* TODO Look into new acoustic
-  SCHEDULED: <2017-07-25>
+* DONE Look into new acoustic
+  CLOSED: [2017-07-27 Thu 19:12] SCHEDULED: <2017-07-25>
   - Classical or flamenco
     - Probably classical
     - Nylon string
@@ -52,6 +56,8 @@
 ** TODO Sketch
 ** TODO Materials
 ** TODO Build
-* TODO Fix Bella Bed
-  SCHEDULED: <2017-07-26 Wed>
+* DONE Fix Bella Bed
+  CLOSED: [2017-07-26 Wed 21:54] SCHEDULED: <2017-07-26 Wed>
+* TODO Call tana - Birthday
+  SCHEDULED: <2017-07-28 Fri>
   

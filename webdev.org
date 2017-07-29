@@ -61,7 +61,7 @@
     - should use different setups for desktop, mobile, etc. 
 *** DONE pleasing fonts
     CLOSED: [2017-07-23 Sun 13:11]
-** TODO Box Model [62%]
+** TODO Box Model [100%]
 *** DONE inline vs block
     CLOSED: [2017-07-24 Mon 20:49]
 *** DONE margins padding borders
@@ -76,10 +76,13 @@
 *** DONE Inline Block
     CLOSED: [2017-07-25 Tue 21:24]
     - can make inline lists eg navbar
-*** TODO Box Margins
+*** DONE Box Margins
+    CLOSED: [2017-07-27 Thu 20:00]
     - you are at listing 84 :: figure out why the .bio-box h3 is only applied to one h3
-*** TODO Padding - Chairs
-*** TODO Border fun
+*** DONE Padding - Chairs
+    CLOSED: [2017-07-27 Thu 20:03]
+*** DONE Border fun
+    CLOSED: [2017-07-28 Fri 04:28]
 ** TODO Laying it all out [%]
 *** TODO basics
 *** TODO Jekyll
@@ -165,3 +168,4 @@
 
 * TODO Codewars
 ** TODO Try making a habit of one or two each day in the morning
+   
