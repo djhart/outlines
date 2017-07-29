@@ -42,8 +42,8 @@
   - Classical or flamenco
     - Probably classical
     - Nylon string
-* TODO Concert at Hancher
-  SCHEDULED: <2017-07-26 Wed>
+* DONE Concert at Hancher
+  CLOSED: [2017-07-28 Fri 22:39] SCHEDULED: <2017-07-26 Wed>
 * TODO Build Desk
   SCHEDULED: <2017-07-29 Sat>
 ** TODO Measurements
