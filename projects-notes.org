@@ -1,30 +1,31 @@
 * Projects
 ** Guitar practice web app
-+ see guitar.rb - not sure if made much progress but i think notes are somewhere
+   + see guitar.rb - not sure if made much progress but i think notes are somewhere
+   + notes are on the desk, i dont think this was ever started but do it once you get back into ruby
 ** Personal site
-+ focus this on learning and sharing experience of such
-+ maybe make a second site on media consumption / inspiration (eg abduzeedo) / creation
-  + music, lit, art especially music
-  + prob not games or movie/tv
-  + how to on various elements of this and main while main focuses on how i actually learned and what it was like / more bloggy i guess
-  + consider third site thats strictly portfolio/ self promo
-  + look at branding - seo marketty kindo of things
-+ start keeping journal with ideas for this
-+ make some sketches as well get a sense of the vibe you want
-+ dont be afraid of multiple sites, be wary of trying to cram too much into one thing
+   + focus this on learning and sharing experience of such
+   + maybe make a second site on media consumption / inspiration (eg abduzeedo) / creation
+     + music, lit, art especially music
+     + prob not games or movie/tv
+     + how to on various elements of this and main while main focuses on how i actually learned and what it was like / more bloggy i guess
+     + consider third site thats strictly portfolio/ self promo
+     + look at branding - seo marketty kindo of things
+   + start keeping journal with ideas for this
+   + make some sketches as well get a sense of the vibe you want
+   + dont be afraid of multiple sites, be wary of trying to cram too much into one thing
 ** Bry site
 *** personal but also lit community type thing like she mentioned - curated (!!important)
-+ could also scale to be self curated like social media type thing but maybe organizational/community rather than personal friend-type
-  + eg universities have their own circles - self identified communities - agenda based - many angles here  worth exploring but only after initial poc
+    + could also scale to be self curated like social media type thing but maybe organizational/community rather than personal friend-type
+      + eg universities have their own circles - self identified communities - agenda based - many angles here  worth exploring but only after initial poc
 ** Brandon site
 ** geometry rts game?
-+ think geometry wars + starcraft
-+ start simple rps style and build from there
-+ browser based? easier more relevant
-  + also look into unity if thats easier
-  + ai? interesting idea there - colud be a lot of fun / good portfolio project
-  + stream coding?
-    + good for networking
-    + maybe learn faster
-    + community involvement?
-    + fun, maybe revisit gamestreaming too
+   + think geometry wars + starcraft
+   + start simple rps style and build from there
+   + browser based? easier more relevant
+     + also look into unity if thats easier
+     + ai? interesting idea there - colud be a lot of fun / good portfolio project
+     + stream coding?
+       + good for networking
+       + maybe learn faster
+       + community involvement?
+       + fun, maybe revisit gamestreaming too

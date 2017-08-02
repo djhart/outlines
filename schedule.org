@@ -10,15 +10,20 @@
    :END:
    - State "DONE"       from "TODO"       [2017-07-25 Tue 20:28]
 ** TODO Paypal 
-   DEADLINE: <2017-09-01 Fri +1m>
+   DEADLINE: <2017-10-01 Sun +1m>
    :PROPERTIES:
-   :LAST_REPEAT: [2017-07-26 Wed 22:11]
+   :LAST_REPEAT: [2017-08-01 Tue 22:19]
    :END:
+   - State "DONE"       from "TODO"       [2017-08-01 Tue 22:19]
    - State "DONE"       from "TODO"       [2017-07-26 Wed 22:11]
 ** TODO Younkers Card
    DEADLINE: <2017-08-01>
 ** TODO Credit Card
-   DEADLINE: <2017-08-01 +1m>
+   DEADLINE: <2017-09-01 Fri +1m>
+   :PROPERTIES:
+   :LAST_REPEAT: [2017-08-01 Tue 22:19]
+   :END:
+   - State "DONE"       from "TODO"       [2017-08-01 Tue 22:19]
 * TODO Burlesque :: Paramount Theatre CR
   SCHEDULED: <2017-09-16 -5d>
 * TODO Tune/Clean Bikes
@@ -26,24 +31,16 @@
 * TODO Replace Credit Card
   SCHEDULED: <2017-07-24 Mon>
 * TODO Clean Office
-  SCHEDULED: <2017-07-30 Sun ++1w>
+  SCHEDULED: <2017-08-06 Sun ++1w>
   :PROPERTIES:
-  :LAST_REPEAT: [2017-07-23 Sun 11:51]
+  :LAST_REPEAT: [2017-08-01 Tue 22:19]
   :END:
+  - State "DONE"       from "TODO"       [2017-08-01 Tue 22:19]
   - State "DONE"       from "TODO"       [2017-07-23 Sun 11:51]
-* DONE Mow lawn
-  CLOSED: [2017-07-23 Sun 16:08] SCHEDULED: <2017-07-23 Sun>
+* TODO Mow lawn
+  SCHEDULED: <2017-08-02 Wed>
 * TODO Get Insecticide
   SCHEDULED: <2017-07-24>
-* DONE Dishes
-  CLOSED: [2017-07-24 Mon 20:28] SCHEDULED: <2017-07-23>
-* DONE Look into new acoustic
-  CLOSED: [2017-07-27 Thu 19:12] SCHEDULED: <2017-07-25>
-  - Classical or flamenco
-    - Probably classical
-    - Nylon string
-* DONE Concert at Hancher
-  CLOSED: [2017-07-28 Fri 22:39] SCHEDULED: <2017-07-26 Wed>
 * TODO Build Desk
   SCHEDULED: <2017-07-29 Sat>
 ** TODO Measurements
@@ -56,8 +53,13 @@
 ** TODO Sketch
 ** TODO Materials
 ** TODO Build
-* DONE Fix Bella Bed
-  CLOSED: [2017-07-26 Wed 21:54] SCHEDULED: <2017-07-26 Wed>
 * TODO Call tana - Birthday
-  SCHEDULED: <2017-07-28 Fri>
-  
+* TODO Build Dresser
+* TODO Build Packraft
+* TODO Get hammock pole
+  SCHEDULED: <2017-08-03 Thu>
+** https://www.tiggzcraftworkz.com/
+* TODO Get linux on chromebook
+** TODO Spacemacs
+** TODO ledger
+
