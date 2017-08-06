@@ -105,7 +105,6 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 ** TODO University Physics - Mechanics (Physics I)[0%]
   + this should be quick but do not rush
 *** TODO Chapter 1 :: Units, Vector
-*** TODO 
 **** 1.10 Products of Vectors 
 ***** Dot Product (Scalar Product) 
      \[
@@ -121,7 +120,7 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
       \[
       C = AB\sin\phi
       \] (Magnitude of cross product of \[ \overrightarrow{\textit{\textbf{A}}} \] and \[ \overrightarrow{\textit{\textbf{B}}} \] )  
-
+     - add below verbose form
       \[
       \overrightarrow{\textit{\textbf{A}}} \times \overrightarrow{\textit{\textbf{B}}} = \left| \begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ A_{x} & A_{y} & A_{z} \\ B_{x} & B_{y} & B_{z} \end{array} \right|
       \]
