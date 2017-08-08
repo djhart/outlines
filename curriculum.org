@@ -8,6 +8,7 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 *** TODO Workbook in Spanish: Three Years [0%]
 **** TODO Part I :: Verbs[0%]
 ***** TODO Lesson 1 :: Present Tense
+      - put exercise 4C in here. tired now
 ***** TODO Lesson 2 :: Present Tense of Stem Changing Verbs 
 ***** TODO Lesson 3 :: Spelling Changes in the Present Tense
 ***** TODO Lesson 4 :: Preterite Tense

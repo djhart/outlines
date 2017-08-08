@@ -84,7 +84,7 @@
     CLOSED: [2017-07-27 Thu 20:03]
 *** DONE Border fun
     CLOSED: [2017-07-28 Fri 04:28]
-** TODO Laying it all out [30%]
+** TODO Laying it all out [40%]
 *** DONE basics
     CLOSED: [2017-08-01 Tue 23:12]
 *** DONE Jekyll
@@ -95,8 +95,16 @@
     CLOSED: [2017-08-01 Tue 23:23]
     - front matter --- <metadata> ---
       - identifies layout as a template
-*** TODO layout file
+*** DONE layout file
+    CLOSED: [2017-08-07 Mon 19:44]
+    ---
+    layout: default
+    ---
+    - jekyll treats local directory as site eg localhost:4000/webpagename.html takes you to that page
 *** TODO CSS file/reset
+    - Use classes on semantic elements like header, nav, etc.
+    - use includes to make things like reset, header, etc. portable/modular
+    - Navigation and children
 *** TODO includes intro
 *** TODO advanced selectors
 *** TODO positioning

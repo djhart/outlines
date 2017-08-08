@@ -37,8 +37,6 @@
   :END:
   - State "DONE"       from "TODO"       [2017-08-01 Tue 22:19]
   - State "DONE"       from "TODO"       [2017-07-23 Sun 11:51]
-* TODO Mow lawn
-  SCHEDULED: <2017-08-02 Wed>
 * TODO Get Insecticide
   SCHEDULED: <2017-07-24>
 * TODO Build Desk
@@ -58,8 +56,12 @@
 * TODO Build Packraft
 * TODO Get hammock pole
   SCHEDULED: <2017-08-03 Thu>
+  - is expensive look into tripod
+    - is fun to make no doubt
 ** https://www.tiggzcraftworkz.com/
 * TODO Get linux on chromebook
-** TODO Spacemacs
 ** TODO ledger
-
+   - is on but need to test
+* TODO Balance credit card in ledger
+  SCHEDULED: <2017-09-01 Fri>
+** Just use equity to get things in line - the start is a bit rough
