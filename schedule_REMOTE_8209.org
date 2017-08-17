@@ -37,11 +37,8 @@
   :END:
   - State "DONE"       from "TODO"       [2017-08-01 Tue 22:19]
   - State "DONE"       from "TODO"       [2017-07-23 Sun 11:51]
-<<<<<<< HEAD
-=======
 * TODO Mow lawn
   SCHEDULED: <2017-08-05 Sat>
->>>>>>> 7841cdaa9ad70bd362aaf0e714e3dad06c7bdb5d
 * TODO Get Insecticide
   SCHEDULED: <2017-07-24>
 * TODO Build Desk
@@ -69,18 +66,7 @@
 ** Also look into sevylor rafts - may be cheaper
 * TODO Get hammock pole
   SCHEDULED: <2017-08-03 Thu>
-  - is expensive look into tripod
-    - is fun to make no doubt
 ** https://www.tiggzcraftworkz.com/
-<<<<<<< HEAD
-* TODO Get linux on chromebook
-** TODO ledger
-   - is on but need to test
-* TODO Balance credit card in ledger
-  SCHEDULED: <2017-09-01 Fri>
-** Just use equity to get things in line - the start is a bit rough
-=======
 * TODO Add finance to private repo
   SCHEDULED: <2017-08-06 Sun>
 
->>>>>>> 7841cdaa9ad70bd362aaf0e714e3dad06c7bdb5d

@@ -84,7 +84,11 @@
     CLOSED: [2017-07-27 Thu 20:03]
 *** DONE Border fun
     CLOSED: [2017-07-28 Fri 04:28]
+<<<<<<< HEAD
 ** TODO Laying it all out [40%]
+=======
+** TODO Laying it all out [60%]
+>>>>>>> 7841cdaa9ad70bd362aaf0e714e3dad06c7bdb5d
 *** DONE basics
     CLOSED: [2017-08-01 Tue 23:12]
 *** DONE Jekyll
@@ -96,6 +100,7 @@
     - front matter --- <metadata> ---
       - identifies layout as a template
 *** DONE layout file
+<<<<<<< HEAD
     CLOSED: [2017-08-07 Mon 19:44]
     ---
     layout: default
@@ -106,6 +111,15 @@
     - use includes to make things like reset, header, etc. portable/modular
     - Navigation and children
 *** TODO includes intro
+=======
+    CLOSED: [2017-08-12 Sat 12:29]
+*** DONE CSS file/reset
+    CLOSED: [2017-08-12 Sat 13:46]
+*** DONE includes intro
+    CLOSED: [2017-08-12 Sat 14:13]
+    - logo goes at bottom of list bc otherwise the line height takes precedence and nav links go underneath on new line
+    - portability is key, header sits in includes file, separate from head, all separate from css and content
+>>>>>>> 7841cdaa9ad70bd362aaf0e714e3dad06c7bdb5d
 *** TODO advanced selectors
 *** TODO positioning
 *** TODO fixed header
