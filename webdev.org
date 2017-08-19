@@ -84,7 +84,7 @@
     CLOSED: [2017-07-27 Thu 20:03]
 *** DONE Border fun
     CLOSED: [2017-07-28 Fri 04:28]
-** TODO Laying it all out [66%]
+** TODO Laying it all out [61%]
 *** DONE basics
     CLOSED: [2017-08-01 Tue 23:12]
 *** DONE Jekyll
@@ -114,7 +114,17 @@
     CLOSED: [2017-08-12 Sat 14:13]
     - logo goes at bottom of list bc otherwise the line height takes precedence and nav links go underneath on new line
     - portability is key, header sits in includes file, separate from head, all separate from css and content
-*** TODO advanced selectors
+*** TODO advanced selector
+**** Pseudo classes
+     - :hover :: styles what happens when user rolls over elements
+     - :active :: styles what happens on click
+     - :visited :: styles what link looks like if user has visited linked page 
+**** Sibling selectors 
+      - + :: select only first sibling (h2 + p styles first p after h2)
+      - ~ :: select all siblings (h2 ~ p styles all p immediately following h2)
+**** Child selectors 
+     - first-child :: styles only first child of parent element
+     - last-child :: styles only last child of parent element 
 *** TODO positioning
 *** TODO fixed header
 *** TODO footer, includes in includes
