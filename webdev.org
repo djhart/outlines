@@ -49,7 +49,7 @@
 *** DONE percentages
     CLOSED: [2017-07-19 Wed 23:04]
 *** DONE em
-    - em mainly for font 
+    - em mainly for font
     CLOSED: [2017-07-22 Sat 22:53]
 *** DONE rem
     CLOSED: [2017-07-23 Sun 12:25]
@@ -58,7 +58,7 @@
     CLOSED: [2017-07-23 Sun 13:00]
     - viewport height, viewport width
     - each is 1% :: 100vw equals full width
-    - should use different setups for desktop, mobile, etc. 
+    - should use different setups for desktop, mobile, etc.
 *** DONE pleasing fonts
     CLOSED: [2017-07-23 Sun 13:11]
 ** DONE Box Model [100%]
@@ -84,7 +84,7 @@
     CLOSED: [2017-07-27 Thu 20:03]
 *** DONE Border fun
     CLOSED: [2017-07-28 Fri 04:28]
-** TODO Laying it all out [61%]
+** TODO Laying it all out [75%]
 *** DONE basics
     CLOSED: [2017-08-01 Tue 23:12]
 *** DONE Jekyll
@@ -114,18 +114,39 @@
     CLOSED: [2017-08-12 Sat 14:13]
     - logo goes at bottom of list bc otherwise the line height takes precedence and nav links go underneath on new line
     - portability is key, header sits in includes file, separate from head, all separate from css and content
-*** TODO advanced selector
+*** DONE advanced selector
+    CLOSED: [2017-08-18 Fri 21:17]
 **** Pseudo classes
      - :hover :: styles what happens when user rolls over elements
      - :active :: styles what happens on click
-     - :visited :: styles what link looks like if user has visited linked page 
-**** Sibling selectors 
+     - :visited :: styles what link looks like if user has visited linked page
+**** Sibling selectors
       - + :: select only first sibling (h2 + p styles first p after h2)
       - ~ :: select all siblings (h2 ~ p styles all p immediately following h2)
-**** Child selectors 
+**** Child selectors
      - first-child :: styles only first child of parent element
-     - last-child :: styles only last child of parent element 
+     - last-child :: styles only last child of parent element
 *** TODO positioning
+**** Position styles
+***** Static :: Default positioning
+      - Respects content flow
+      - Can't be positioned outside natural position
+      - Scrolls with content
+***** Relative :: Like static but allows for directional styles
+      -  Respects content flow / scrolls with content
+      -  Can set z-index
+      -  Allows absolutely positioned items to be contained within, as though the relatively positioned element were a separate canvas
+***** Absolute :: Takes element out of document flow
+      - Scrolls with content
+      - Can set z-index
+      - Ignores float
+      - Positioned relative to next parent with position style other than static or to page if none
+      - Needs dimensions, otherwise it will be the size of content within
+***** Fixed :: Positions element at a specific place within the page
+      - Can set z-index
+      - Ignore floats
+      - Needs dimensions, otherwise it will be the size of content within
+
 *** TODO fixed header
 *** TODO footer, includes in includes
 ** TODO Specialty layout - flexbox [%]
@@ -138,13 +159,13 @@
 
 * TODO Rails Tutorial [%]
   -use this but make your own site
-  -Hart.io? 
+  -Hart.io?
   -Make logo and all of that
   -styling with css
   -put everything together and make this a serious things
   -plan for it to be your portfolio/business site
-  
-* TODO Viking [%] 
+
+* TODO Viking [%]
 ** TODO Front End
 *** TODO HTML/CSS
 **** TODO Resume Finish HTML
@@ -157,8 +178,8 @@
 ** TODO Ruby
 ** TODO Getting hired phase 1
 
-* TODO ODIN [0%] 
-** Clean up odds n ends 
+* TODO ODIN [0%]
+** Clean up odds n ends
 ** TODO Rails
 *** TODO Forms project
 *** TODO Members only
@@ -197,9 +218,8 @@
 *** TODO Website
 *** TODO Resume
 
-* TODO FreeCodeCamp [%] 
+* TODO FreeCodeCamp [%]
 ** TODO Check it out - good resume builder
 
 * TODO Codewars
 ** TODO Try making a habit of one or two each day in the morning
-   
