@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [44%]
+* TODO Learn enough CSS [55%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -84,7 +84,8 @@
     CLOSED: [2017-07-27 Thu 20:03]
 *** DONE Border fun
     CLOSED: [2017-07-28 Fri 04:28]
-** TODO Laying it all out [75%]
+** DONE Laying it all out [100%]
+   CLOSED: [2017-08-22 Tue 23:18]
 *** DONE basics
     CLOSED: [2017-08-01 Tue 23:12]
 *** DONE Jekyll
@@ -126,7 +127,8 @@
 **** Child selectors
      - first-child :: styles only first child of parent element
      - last-child :: styles only last child of parent element
-*** TODO positioning
+*** DONE positioning
+    CLOSED: [2017-08-22 Tue 19:27]
 **** Position styles
 ***** Static :: Default positioning
       - Respects content flow
@@ -147,8 +149,15 @@
       - Ignore floats
       - Needs dimensions, otherwise it will be the size of content within
 
-*** TODO fixed header
-*** TODO footer, includes in includes
+*** DONE fixed header
+    CLOSED: [2017-08-22 Tue 23:18]
+    - position: fixed
+    - high z-index so content scrolls underneath
+    
+*** DONE footer, includes in includes
+    CLOSED: [2017-08-22 Tue 23:18]
+    - footer much the same as header but much larger
+    - use include to repeat nav content, doesnt matter that footer is an include
 ** TODO Specialty layout - flexbox [%]
 ** TODO adding a blog [%]
 ** TODO Mobile media queries [%]
