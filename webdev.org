@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [55%]
+* TODO Learn enough CSS [50%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -67,6 +67,7 @@
     CLOSED: [2017-07-24 Mon 20:49]
 *** DONE margins padding borders
     CLOSED: [2017-07-24 Mon 21:02]
+    - use border-box to add padding without changing overall size (eg putting something under header)
 *** DONE Floats
     CLOSED: [2017-07-25 Tue 20:56]
 *** DONE Overflow style
@@ -158,6 +159,15 @@
     CLOSED: [2017-08-22 Tue 23:18]
     - footer much the same as header but much larger
     - use include to repeat nav content, doesnt matter that footer is an include
+** TODO Page templates and frontmatter [25%] 
+*** DONE Template content
+    CLOSED: [2017-08-26 Sat 18:11]
+    - Use {{ content }} to insert whatever page the user visits into layout (eg index.html)
+*** TODO No place like home
+    - big splash hero (border-box, 100vh height, 10vh padding (height of header), border-size: cover (this one was weird, redownload img if theres problem
+    - 
+*** TODO More advanced selectors
+*** TODO Other pages, other folders
 ** TODO Specialty layout - flexbox [%]
 ** TODO adding a blog [%]
 ** TODO Mobile media queries [%]
