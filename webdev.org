@@ -159,14 +159,20 @@
     CLOSED: [2017-08-22 Tue 23:18]
     - footer much the same as header but much larger
     - use include to repeat nav content, doesnt matter that footer is an include
-** TODO Page templates and frontmatter [25%] 
+** TODO Page templates and frontmatter [75%] 
 *** DONE Template content
     CLOSED: [2017-08-26 Sat 18:11]
     - Use {{ content }} to insert whatever page the user visits into layout (eg index.html)
-*** TODO No place like home
+*** DONE No place like home
+    CLOSED: [2017-08-27 Sun 14:25]
     - big splash hero (border-box, 100vh height, 10vh padding (height of header), border-size: cover (this one was weird, redownload img if theres problem
-    - 
-*** TODO More advanced selectors
+    - style h1 
+      - wrap content
+      - dont need to worry about horizontal pos since block can just center align
+*** DONE More advanced selectors
+    CLOSED: [2017-08-27 Sun 21:33]
+    - use pseudo elements (:before, :after) for little things without needing any html (eg down arrow to show theres content below)
+    - Modular is so good - allows portability and consistency while eliminating redundancy in code
 *** TODO Other pages, other folders
 ** TODO Specialty layout - flexbox [%]
 ** TODO adding a blog [%]
