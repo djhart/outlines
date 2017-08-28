@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [50%]
+* TODO Learn enough CSS [60%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -159,7 +159,8 @@
     CLOSED: [2017-08-22 Tue 23:18]
     - footer much the same as header but much larger
     - use include to repeat nav content, doesnt matter that footer is an include
-** TODO Page templates and frontmatter [75%] 
+** DONE Page templates and frontmatter [100%] 
+   CLOSED: [2017-08-27 Sun 22:07]
 *** DONE Template content
     CLOSED: [2017-08-26 Sat 18:11]
     - Use {{ content }} to insert whatever page the user visits into layout (eg index.html)
@@ -173,7 +174,10 @@
     CLOSED: [2017-08-27 Sun 21:33]
     - use pseudo elements (:before, :after) for little things without needing any html (eg down arrow to show theres content below)
     - Modular is so good - allows portability and consistency while eliminating redundancy in code
-*** TODO Other pages, other folders
+*** DONE Other pages, other folders
+    CLOSED: [2017-08-27 Sun 22:05]
+    - can make directories with index etc. to have good looking url
+    - just include the layout and youre good, will need some min height etc - see next chapter
 ** TODO Specialty layout - flexbox [%]
 ** TODO adding a blog [%]
 ** TODO Mobile media queries [%]
