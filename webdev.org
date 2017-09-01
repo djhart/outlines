@@ -178,14 +178,24 @@
     CLOSED: [2017-08-27 Sun 22:05]
     - can make directories with index etc. to have good looking url
     - just include the layout and youre good, will need some min height etc - see next chapter
-** TODO Specialty layout - flexbox [0%]
-*** TODO Having content fill a container
+** TODO Specialty layout - flexbox [60%]
+*** DONE Having content fill a container
+    CLOSED: [2017-08-29 Tue 21:23]
     - flex items inside flex container
       - flex container has property display: flex
       - flex items have some flex styling eg flex-grow, flex-direction etc
     - allows variably sized content to occupy space in a predictable manner
-*** TODO Vertical flex centering
-*** TODO Flexbox style options and shorthand
+    - seems like this is the way to lay things out
+*** DONE Vertical flex centering
+    CLOSED: [2017-08-31 Thu 23:26]
+    - align-items :: vertically align flex elements (flex-start, center, flex-end)
+    - flex-basis :: determines the size of flex items before space is distributed and how content is treated.
+    - flex-grow :: determines how flex items grow inside their parent.
+    - flex-shrink :: determines how flex items shrink when their parent gets smaller. 
+*** DONE Flexbox style options and shorthand
+    CLOSED: [2017-08-31 Thu 23:47]
+    - flex-direction :: column and row each have -revers
+    - shorthand :: flex: flex-grow flex-shrink flex-basis; (flex: 1; = flex: 1 1 0;)
 *** TODO Three-column page layout
 *** TODO A gallery stub
 ** TODO adding a blog [%]
