@@ -178,7 +178,7 @@
     CLOSED: [2017-08-27 Sun 22:05]
     - can make directories with index etc. to have good looking url
     - just include the layout and youre good, will need some min height etc - see next chapter
-** TODO Specialty layout - flexbox [60%]
+** TODO Specialty layout - flexbox [80%]
 *** DONE Having content fill a container
     CLOSED: [2017-08-29 Tue 21:23]
     - flex items inside flex container
@@ -196,12 +196,18 @@
     CLOSED: [2017-08-31 Thu 23:47]
     - flex-direction :: column and row each have -revers
     - shorthand :: flex: flex-grow flex-shrink flex-basis; (flex: 1; = flex: 1 1 0;)
-*** TODO Three-column page layout
+*** DONE Three-column page layout
+    CLOSED: [2017-09-04 Mon 01:31]
+    - use set basis and 0 flex-grow with flex shrink 1 to establish set sizes while other flex items in layout adjust.
+    - set container with flex 1 and size detemining container as display flex to fill height of container.
 *** TODO A gallery stub
 ** TODO adding a blog [%]
 ** TODO Mobile media queries [%]
 ** TODO more little touches [%]
 
+   - wrappers are very important, have whole page wrapper on each page
+   - set img width to 100%, flex takes care of everything
+   - transitions property eases hover effects
 * TODO Learn Enough Ruby [%]
   - Do before catching up on ODIN?
 
