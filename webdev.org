@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [90%]
+* TODO Learn enough CSS [80%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -206,26 +206,34 @@
    - wrappers are very important, have whole page wrapper on each page
    - set img width to 100%, flex takes care of everything
    - transitions property eases hover effects
-** DONE adding a blog [0%]
+** DONE adding a blog [100%]
    CLOSED: [2017-09-04 Mon 17:27]
-*** TODO Adding blog posts
+*** DONE Adding blog posts
+    CLOSED: [2017-09-06 Wed 21:45]
     - flex property order allows you set order of elements within same parent so you can reorder things without needing to rewrite any HTML. Higher order values are written later on the page. 
     - max-width 980px - convention to fit inside ipad size screens, with extra nav column ensures text is about right - not too wide.
     - flex: 1 - dynamic size - good for main things
     - flex: 0 0 --em - fixed size. 20em for this aside column
     - constrain headers inside page specific class to avoid restyling homepage while providing consistency across posts
-*** TODO Blog index content loop
-*** TODO A blog post page 
-** DONE Mobile media queries [0%]
-   CLOSED: [2017-09-06 Wed 18:20]
-   - Jekyll - Blog aware
+*** DONE Blog index content loop
+    CLOSED: [2017-09-06 Wed 21:45]
+    - Jekyll - Blog aware
      - loop through posts
      - pull variables from frontmatter and filenames
        - {{ post.url }}
        - {{ post.title }}, {{ post.gravatar }}, {{ post.authorTwitter }}, {{ post.postHero }}
        - {{ post.date | date: '%B %d, %Y' }} - formatted November 03, 2016
        - {{ post.excerpt }} - pulls first paragraph
-     - organize posts by date 
+     - organize posts by date
+*** DONE A blog post page 
+    CLOSED: [2017-09-06 Wed 21:52]
+    - make a post layout - include default and go from there
+    - Article tag - wrap sections of content that could stand alone
+    - aside tag - extra content e.g. recent posts
+    - add most recent post link - {{ site.posts.first.url }}
+    - add include for recent posts - DRY
+    - play - you know a lot but no comfort
+** TODO Mobile media queries [0%]
 ** TODO more little touches [%]
 * TODO Learn Enough Ruby [%]
   - Do before catching up on ODIN?
