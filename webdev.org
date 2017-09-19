@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [80%]
+* TODO Learn enough CSS [72%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -234,7 +234,17 @@
     - add include for recent posts - DRY
     - play - you know a lot but no comfort
 ** TODO Mobile media queries [0%]
-** TODO more little touches [%]
+*** TODO Getting started with mobile designs
+*** TODO How to see in mobile
+*** TODO Mobile adaptation
+*** TODO Mobile viewport
+*** TODO Dropdown menu
+*** TODO Mobile dropown menu
+** TODO more little touches [0%]
+*** TODO Custom fonts
+*** TODO Favicons
+*** TODO Custom title and meta description
+*** TODO Conclusion and further reading
 * TODO Learn Enough Ruby [%]
   - Do before catching up on ODIN?
 
