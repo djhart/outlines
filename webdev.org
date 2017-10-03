@@ -233,10 +233,17 @@
     - add most recent post link - {{ site.posts.first.url }}
     - add include for recent posts - DRY
     - play - you know a lot but no comfort
-** TODO Mobile media queries [0%]
-*** TODO Getting started with mobile designs
-*** TODO How to see in mobile
-*** TODO Mobile adaptation
+** TODO Mobile media queries [50%]
+*** DONE Getting started with mobile designs
+    CLOSED: [2017-10-02 Mon 21:23]
+*** DONE How to see in mobile
+    CLOSED: [2017-10-02 Mon 21:23]
+*** DONE Mobile adaptation
+    CLOSED: [2017-10-02 Mon 21:29]
+**** be careful with specificity - makes a difference between media query being applied or not
+**** Media query takes form @media (max-width: 800px) { CSS }
+***** when less than max width, CSS within brackets is applied.
+**** do things like compress menus, increase font size, remove padding, hide nonessential elements, etc.
 *** TODO Mobile viewport
 *** TODO Dropdown menu
 *** TODO Mobile dropown menu
