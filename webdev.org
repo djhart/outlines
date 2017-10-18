@@ -233,7 +233,7 @@
     - add most recent post link - {{ site.posts.first.url }}
     - add include for recent posts - DRY
     - play - you know a lot but no comfort
-** TODO Mobile media queries [50%]
+** TODO Mobile media queries [66%]
 *** DONE Getting started with mobile designs
     CLOSED: [2017-10-02 Mon 21:23]
 *** DONE How to see in mobile
@@ -244,8 +244,15 @@
 **** Media query takes form @media (max-width: 800px) { CSS }
 ***** when less than max width, CSS within brackets is applied.
 **** do things like compress menus, increase font size, remove padding, hide nonessential elements, etc.
-*** TODO Mobile viewport
+*** DONE Mobile viewport
+    CLOSED: [2017-10-02 Mon 21:51]
+**** Add tag in head: <meta name="viewport" content="width=device-width, initial-scale=1"> to ensure no zoom default. 
 *** TODO Dropdown menu
+**** Simple - nest elements and set child to display: none, then use :hover pseudocass to show hidden element when you hover on menu.
+**** make sure hitbox is contiguous
+**** set .dropdown to position: relative so submenu can be positioned below it using position: absolute.
+***** Style .drop-menu to have padding-top to distance it from .drop-trigger, then set to display: none
+***** add display: block to .drop-menu on .dropdown:hover
 *** TODO Mobile dropown menu
 ** TODO more little touches [0%]
 *** TODO Custom fonts
