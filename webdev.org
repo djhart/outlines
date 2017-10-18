@@ -256,6 +256,10 @@
 ***** add display: block to .drop-menu on .dropdown:hover
 ***** pretty finicky - position can get wonky. make sure to account for resize. 
 *** TODO Mobile dropown menu
+**** Inputs
+***** checkbox, label
+****** :checked pseudoclass - determines if box is checked
+****** label for="" attribute. if for matches css id, can check box by clicking on label or input
 ** TODO more little touches [0%]
 *** TODO Custom fonts
 *** TODO Favicons
