@@ -64,13 +64,14 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
     + http://orgmode.org/manual/External-links.html
   + use locate to find org.el if needed 
     + https://www.howtogeek.com/112674/how-to-find-files-and-folders-in-linux-using-the-command-line/
-** TODO Calculus [%]
+** TODO Calculus [50%]
    :LOGBOOK:
    CLOCK: [2017-07-20 Thu 20:47]--[2017-07-20 Thu 21:12] =>  0:25
    CLOCK: [2017-07-18 Tue 22:18]--[2017-07-18 Tue 22:43] =>  0:25
    CLOCK: [2017-07-17 Mon 23:16]--[2017-07-17 Mon 23:41] =>  0:25
    :END:
-*** TODO Chapter 2 :: Differentiation
+*** DONE Chapter 2 :: Differentiation
+    CLOSED: [2017-10-08 Sun 20:46]
 **** 2.1 Derivative, tangent line
 ***** Definition of derivative  
       \[
@@ -126,6 +127,9 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
       \overrightarrow{\textit{\textbf{A}}} \times \overrightarrow{\textit{\textbf{B}}} = \left| \begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ A_{x} & A_{y} & A_{z} \\ B_{x} & B_{y} & B_{z} \end{array} \right|
       \]
 ***** TODO Exercises pg. 29 (easy or medium in probset.rb)
+      :LOGBOOK:
+      CLOCK: [2017-10-08 Sun 21:10]--[2017-10-08 Sun 21:35] =>  0:25
+      :END:
 *** TODO Chapter 2
 *** TODO Chapter 3
 *** TODO Chapter 4

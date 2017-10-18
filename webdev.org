@@ -233,7 +233,7 @@
     - add most recent post link - {{ site.posts.first.url }}
     - add include for recent posts - DRY
     - play - you know a lot but no comfort
-** TODO Mobile media queries [66%]
+** TODO Mobile media queries [83%]
 *** DONE Getting started with mobile designs
     CLOSED: [2017-10-02 Mon 21:23]
 *** DONE How to see in mobile
@@ -247,12 +247,14 @@
 *** DONE Mobile viewport
     CLOSED: [2017-10-02 Mon 21:51]
 **** Add tag in head: <meta name="viewport" content="width=device-width, initial-scale=1"> to ensure no zoom default. 
-*** TODO Dropdown menu
+*** DONE Dropdown menu
+    CLOSED: [2017-10-17 Tue 21:13]
 **** Simple - nest elements and set child to display: none, then use :hover pseudocass to show hidden element when you hover on menu.
 **** make sure hitbox is contiguous
 **** set .dropdown to position: relative so submenu can be positioned below it using position: absolute.
 ***** Style .drop-menu to have padding-top to distance it from .drop-trigger, then set to display: none
 ***** add display: block to .drop-menu on .dropdown:hover
+***** pretty finicky - position can get wonky. make sure to account for resize. 
 *** TODO Mobile dropown menu
 ** TODO more little touches [0%]
 *** TODO Custom fonts
