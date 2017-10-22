@@ -1,4 +1,4 @@
-* TODO Learn enough CSS [72%]
+* TODO Learn enough CSS [90%]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -233,7 +233,8 @@
     - add most recent post link - {{ site.posts.first.url }}
     - add include for recent posts - DRY
     - play - you know a lot but no comfort
-** TODO Mobile media queries [83%]
+** DONE Mobile media queries [100%]
+   CLOSED: [2017-10-18 Wed 21:14]
 *** DONE Getting started with mobile designs
     CLOSED: [2017-10-02 Mon 21:23]
 *** DONE How to see in mobile
@@ -255,7 +256,8 @@
 ***** Style .drop-menu to have padding-top to distance it from .drop-trigger, then set to display: none
 ***** add display: block to .drop-menu on .dropdown:hover
 ***** pretty finicky - position can get wonky. make sure to account for resize. 
-*** TODO Mobile dropown menu
+*** DONE Mobile dropown menu
+    CLOSED: [2017-10-18 Wed 21:14]
 **** Inputs
 ***** checkbox, label
 ****** :checked pseudoclass - determines if box is checked
