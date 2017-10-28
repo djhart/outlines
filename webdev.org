@@ -262,13 +262,23 @@
 ***** checkbox, label
 ****** :checked pseudoclass - determines if box is checked
 ****** label for="" attribute. if for matches css id, can check box by clicking on label or input
-** TODO more little touches [0%]
-*** TODO Custom fonts
+** TODO more little touches [25%]
+*** DONE Custom fonts
+    CLOSED: [2017-10-28 Sat 15:38]
+**** Font Awesome
+***** Include in head <link rel="stylesheet" href="/fonts/font-awesome-4.7.0/css/font-awesome.css"> -- Make sure to change version number to match what you actually have
+***** Download from site and extract into font file in main project directory
+***** For icons, use <i class="fa fa-<icon name>"></i>
+***** For fonts, just call name of font in CSS
+**** Google Fonts
+***** go to https://fonts.google.com/ and add the ones you want
+***** customize them, only take the weights and styles you need
+***** click embed to get html to include in head. Put above font awesome if you have both, not sure if this matters exactly.
+***** when you call fonts in css put them in '<font name>' so as to differentiate them visually from local fonts - good practice but not strictly necessary.
 *** TODO Favicons
 *** TODO Custom title and meta description
 *** TODO Conclusion and further reading
 * TODO Learn Enough Ruby [%]
-  - Do before catching up on ODIN?
 
 * TODO Rails Tutorial [%]
   -use this but make your own site
