@@ -1,4 +1,5 @@
-* TODO Learn enough CSS [90%]
+* DONE Learn enough CSS [100%]
+  CLOSED: [2017-10-29 Sun 15:14]
   :LOGBOOK:
   CLOCK: [2017-07-25 Tue 21:08]--[2017-07-25 Tue 21:33] =>  0:25
   CLOCK: [2017-07-25 Tue 20:29]--[2017-07-25 Tue 20:54] =>  0:25
@@ -262,7 +263,8 @@
 ***** checkbox, label
 ****** :checked pseudoclass - determines if box is checked
 ****** label for="" attribute. if for matches css id, can check box by clicking on label or input
-** TODO more little touches [50%]
+** DONE more little touches [100%]
+   CLOSED: [2017-10-29 Sun 15:14]
 *** DONE Custom fonts
     CLOSED: [2017-10-28 Sat 15:38]
 **** Font Awesome
@@ -281,11 +283,13 @@
 **** Get fairly small square icon (< 144x144 px), name it favicon.png
 **** put it in main directory and link it in head <link href="/favicon.png" rel="icon" >
 **** for apple touch icon do the same but make it 180x180px and name it apple-touch-icon.png
-*** TODO Custom title and meta description
+*** DONE Custom title and meta description
+    CLOSED: [2017-10-29 Sun 15:14]
 **** Add a conditional to head to put in custom title if present in frontmatter and a default if not. Useful for things like articles, posts, products etc.
 **** For description do the same but using description. These are both useful for SEO. Title will show up at the top of the browser though. 
 **** Also Open Graph metadata. Some kind of visualization protocol
-*** TODO Conclusion and further reading
+*** DONE Conclusion and further reading
+    CLOSED: [2017-10-29 Sun 15:14]
 * TODO Learn Enough Ruby [%]
 
 * TODO Rails Tutorial [%]
@@ -299,8 +303,11 @@
 * TODO Viking [%]
 ** TODO Front End
 *** TODO HTML/CSS
-**** TODO Resume Finish HTML
+**** DONE Resume Finish HTML
+     CLOSED: [2017-10-29 Sun 15:14]
 **** TODO CSS Garden
+***** Clearfix - clear floats, return doc to normal flow
+***** Iframes - embed another html document in page. e.g. youtube, google maps, etc
 **** TODO Lorem Ipsum Blog
 **** TODO Facebook CSS projects
 *** TODO SASS

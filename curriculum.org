@@ -102,11 +102,15 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
 **** DONE Problem set ch 2 (maybe use that ruby problem set generator? - there are a lot here)
      CLOSED: [2017-07-23 Sun 15:42]
 *** TODO Chapter 3 :: Applications of Differentiation
+**** 3.1 Extrema on an Interval
+***** 
+     
 *** 4-9
   
-** TODO University Physics - Mechanics (Physics I)[0%]
+** TODO University Physics - Mechanics (Physics I)[10%]
   + this should be quick but do not rush
-*** TODO Chapter 1 :: Units, Vector
+*** DONE Chapter 1 :: Units, Vector
+    CLOSED: [2017-11-12 Sun 23:41]
 **** 1.10 Products of Vectors 
 ***** Dot Product (Scalar Product) 
      \[
@@ -126,12 +130,20 @@ https://www.physicsforums.com/forums/science-and-math-textbooks.21/
       \[
       \overrightarrow{\textit{\textbf{A}}} \times \overrightarrow{\textit{\textbf{B}}} = \left| \begin{array}{ccc} \hat{i} & \hat{j} & \hat{k} \\ A_{x} & A_{y} & A_{z} \\ B_{x} & B_{y} & B_{z} \end{array} \right|
       \]
-***** TODO Exercises pg. 29 (easy or medium in probset.rb)
+***** DONE Exercises pg. 29 (easy or medium in probset.rb)
+      CLOSED: [2017-11-12 Sun 23:41]
       :LOGBOOK:
       CLOCK: [2017-10-08 Sun 21:10]--[2017-10-08 Sun 21:35] =>  0:25
       :END:
-*** TODO Chapter 2
-*** TODO Chapter 3
+*** DONE Chapter 2 :: Motion Along a Straight Line
+    CLOSED: [2017-11-19 Sun 14:42]
+**** Position, Velocity, Acceleration   
+     \[
+     x = v_0t + \frac{1}{2}at^2
+     \]
+**** DONE Exercises pg 62 (easy in probset.rb)
+     CLOSED: [2017-11-19 Sun 14:26]
+*** TODO Chapter 3 :: Motion in Two or Three Dimensions 
 *** TODO Chapter 4
 *** TODO Chapter 5
 *** TODO Chapter 6
